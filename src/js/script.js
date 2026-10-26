@@ -12,7 +12,7 @@ function mudar() {
     }
 }
 
-function inserir {
+function inserir() {
     
     let posicaoInput = document.getElementById("posicao").value
 - 1;

@@ -89,8 +89,9 @@ ul {
 .footer-content {
     max-width: 900px;
     margin: 0 auto;
-
-    grid-template-columns: (auto-fit, minmax(250, 1fr));
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250, 1fr));
     gap: 30px;
     margin-bottom: 30px;
 }

@@ -18,7 +18,7 @@ function inserir() {
     let novoEquipamento = document.getElementById("novo").value;
     
    
-    let elementosEquipamentos = document.getElementsByClassName("time");
+    let elementosEquipamentos = document.getElementsByClassName("equipamento");
     
     if (posicaoInput >= 0 && posicaoInput < elementosEquipamentos.length && novoEquipamento.trim() !== "") {
         elementosEquipamentos[posicaoInput].innerHTML = novoEquipamento;

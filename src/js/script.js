@@ -2,7 +2,7 @@
 // MANIPULAÇÃO DO DOM - CidadeFit - ACADEMIA INTELIGENTE
 // ==========================================
 
-function Mudar() {
+function mudar() {
     let novo = document.getElementById("nome");
     let titulo = document.getElementById("titulo");
     

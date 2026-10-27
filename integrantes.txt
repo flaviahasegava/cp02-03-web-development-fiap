@@ -1,0 +1,12 @@
+Integrantes
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+- Eduardo Ambra Giordano de Castro
+- Flávia Sirahata Hasegava
+- Lirity Ribeiro de Paiva
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+CP02 e CP03 - FIAP
+Disciplina: Web Development
+Professor: Wellington Cidade Silva Tenório
+
+Link para o GitHub: https://github.com/flaviahasegava/cp02-03-web-development-fiap
